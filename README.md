@@ -78,7 +78,9 @@ For detailed analysis, the `results.py` script can be run to generate plots show
 4. Once the images are preprocessed, run the OCR tools:
 
 `python easy-ocr.py
+
 python keras-ocr.py
+
 python tesseract-ocr.py
 `
 
