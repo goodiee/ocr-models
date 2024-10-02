@@ -55,10 +55,6 @@ A ground truth file `ground-truth.txt` is provided for evaluating OCR output acc
 
 For detailed analysis, the `results.py` script can be run to generate plots showing performance dynamics for each image. This script helps visualize how different preprocessing techniques and OCR tools compare in accuracy across the dataset.
 
-## Results Summary
-EasyOCR yielded the highest accuracy among the three tools, but the overall performance was still not ideal.
-Preprocessing techniques improved results by approximately 10-12%, but only for EasyOCR. More sophisticated preprocessing is needed for further improvement, particularly due to the complexity and variability of the dataset.
-
 ## Setup Instructions
 
 1. Install the required dependencies using:
