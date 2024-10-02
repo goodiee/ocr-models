@@ -77,12 +77,11 @@ For detailed analysis, the `results.py` script can be run to generate plots show
 
 4. Once the images are preprocessed, run the OCR tools:
 
-`python easy-ocr.py
+`python easy-ocr.py`
 
-python keras-ocr.py
+`python keras-ocr.py`
 
-python tesseract-ocr.py
-`
+`python tesseract-ocr.py`
 
 5. Check the results in the *results/* folder. Each OCR tool will output results, including metrics like similarity, accuracy, precision, recall, and F1-score.
 
