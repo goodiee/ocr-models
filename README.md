@@ -13,27 +13,32 @@ The following preprocessing techniques are applied based on the assigned labels 
 - Same Back Stylewriting:
 
 `preprocess_image_same_back_stylewriting`
-Description: Enhances contrast using CLAHE (Contrast Limited Adaptive Histogram Equalization).
+
+Enhances contrast using CLAHE (Contrast Limited Adaptive Histogram Equalization).
 
 - Handwriting:
 
 `preprocess_handwritten_image()`
-Description: Reduces noise using median blurring, converts to LAB color space for contrast adjustment (CLAHE on the L channel), and converts back to BGR format.
+
+Reduces noise using median blurring, converts to LAB color space for contrast adjustment (CLAHE on the L channel), and converts back to BGR format.
 
 - White on Black:
 
 `preprocess_white_on_black_image()`
-Description: Enhances contrast, sharpens the image, and inverts colors to make white text on a black background more visible.
+
+Enhances contrast, sharpens the image, and inverts colors to make white text on a black background more visible.
 
 - Blur-High-Contrast:
 
 `preprocess_blur_high_contrast_image()`
-Description: Adjusts brightness and contrast and applies sharpening filters to improve clarity.
+
+Adjusts brightness and contrast and applies sharpening filters to improve clarity.
 
 - White Background:
 
 `preprocess_white_background_image()`
-Description: Converts the image to grayscale and applies simple thresholding (binarization) to make text on white backgrounds clearer.
+
+Converts the image to grayscale and applies simple thresholding (binarization) to make text on white backgrounds clearer.
 
 Processed images are saved in the *processed_images/* folder, and the appropriate preprocessing technique is applied based on the image's label.
 
