@@ -88,7 +88,7 @@ python tesseract-ocr.py
 
 ## Results Summary
 
-EasyOCR showed the highest accuracy among the three OCR tools accrding to plots below.
+EasyOCR showed the highest accuracy among the three OCR tools accrding to plots below. The x grid - is number of image, y - metric measure. 
 Preprocessing improved accuracy by around 10-12%, though primarily for EasyOCR. It is because of complexities of dataset and needs to improve preprocessing. 
 
 ![1](https://github.com/user-attachments/assets/3a8a3857-bb17-422f-bc34-92c65e90d64a)
