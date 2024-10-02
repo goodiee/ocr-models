@@ -99,7 +99,7 @@ Preprocessing improved accuracy by around 10-12%, though primarily for EasyOCR. 
 
 ![4](https://github.com/user-attachments/assets/b4b00cf7-2fdf-457f-ba88-9a41a733fdb3)
 
-![5](https://github.com/user-attachments/assets/02593ae2-1e30-4dd0-b79c-7021d083fe86)
+![image](https://github.com/user-attachments/assets/772b16d1-43c8-4091-bc6b-d7733c973c0a)
 
 
 ## Cited Resources
