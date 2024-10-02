@@ -54,7 +54,7 @@ After preprocessing, the OCR tools are applied:
 
 - Tesseract-OCR `tesseract-ocr.py`: No extra installation is required beyond the basic setup.
 
-The results from each OCR tool are stored in their respective text files within the *results/* folder. These text files contain similarity metrics such as accuracy, precision, recall, and F1-score for each image, along with the overall results at the end.
+The results from each OCR tool are stored in their respective text files within the *results/* folder. These text files contain metrics such as similarity, accuracy, precision, recall, and F1-score for each image, along with the overall results at the end.
 
 ### Ground Truth and Evaluation Script
 A ground truth file `ground-truth.txt` is provided for evaluating OCR output accuracy by comparing the original text with the results produced by each OCR tool.
