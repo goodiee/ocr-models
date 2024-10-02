@@ -36,7 +36,7 @@ Description: Adjusts brightness and contrast and applies sharpening filters to i
 Description: Converts the image to grayscale and applies simple thresholding (binarization) to make text on white backgrounds clearer.
 
 Processed images are saved in the *processed_images/* folder, and the appropriate preprocessing technique is applied based on the image's label.
-### ! The list of labels can be expaneded if needed depending on the dataset. Also it is possible to apply some tecniques for one image.
+! The list of labels can be expaneded if needed depending on the dataset. Also it is possible to apply some tecniques for one image.
 
 ### OCR Tools and Evaluation
 
