@@ -1,0 +1,139 @@
+Image: img1.jpeg
+OCR Result: i4 B E n 135025 439BF7AZ Meoe 045 1 China AB L
+Ground Truth: Made in China 13502577 139BF7A4B 0451 AB
+Similarity: 57.97%
+Accuracy: 11.76%
+Precision: 12.50%
+Recall: 20.42%
+F1-Score: 8.10%
+----------------------------------------
+Image: img10.jpg
+OCR Result: BOSCH 8RO 907 637 B 0101 005 ESP-Sensor MM3.R8k 0 265 005 853 FOV 15-09-14 BPV 1283/31 7062614 Made in Hungary 4843 AR
+Ground Truth: BOSCH 8R0 907 637 B0101 005 ESP-Sensor MM3.R8k FOV 0 265 005 85315-09-14 7062614 BPV 1283/31 Made in Hungary 4843658
+Similarity: 86.01%
+Accuracy: 66.67%
+Precision: 70.85%
+Recall: 72.40%
+F1-Score: 71.42%
+----------------------------------------
+Image: img11.jpg
+OCR Result: Z8 Li @ BE9 945 093 484 ULO 07S 19.28 Heckleuchte -501 (401D) 7490-01 26.01.05
+Ground Truth: ZB Heckleuchte Li 8E9 945 093484 501 (401) 07S ULO 7490-01 19:28 26.01.05
+Similarity: 59.20%
+Accuracy: 6.56%
+Precision: 10.26%
+Recall: 13.65%
+F1-Score: 6.78%
+----------------------------------------
+Image: img12.jpg
+OCR Result: Megave
+Ground Truth: MEGAVE R
+Similarity: 92.31%
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
+F1-Score: 100.00%
+----------------------------------------
+Image: img13.png
+OCR Result: Mexico 1C0 805 594 6 >PP-GF 40< PK3
+Ground Truth: Mexico 1CO 805 594 C >PP-GF 40< PK3
+Similarity: 92.86%
+Accuracy: 92.86%
+Precision: 93.65%
+Recall: 96.03%
+F1-Score: 91.75%
+----------------------------------------
+Image: img14.jpg
+OCR Result: L3 Plg Vr 440A
+Ground Truth: C3PIC L VR 4110A
+Similarity: 66.67%
+Accuracy: 27.27%
+Precision: 45.83%
+Recall: 50.00%
+F1-Score: 22.22%
+----------------------------------------
+Image: img15.jpeg
+OCR Result: BOSCH ASSEMBLED IN MEXicO 110819 6002Jc0860 0263004203 0257 Sw 1.45 HW 2.20 RB AAS 64 CEMO4 PSA 9663821780 23054h
+Ground Truth: BOSCH 0263004203 ASSEMBLED IN MEXICO110819 6002JC0860 0257 SW 1.45 HW 2.20 864 PSA  RB_AAS_G4_CEMO4 9663821780 23054H
+Similarity: 82.65%
+Accuracy: 25.26%
+Precision: 28.35%
+Recall: 23.98%
+F1-Score: 22.60%
+----------------------------------------
+Image: img2.jpeg
+OCR Result: 054.129. KyS 1.808 GERMANY >PA6-GF30 <
+Ground Truth: 054.129.909 KYS GERMANY >PA6-GF30<
+Similarity: 87.50%
+Accuracy: 25.81%
+Precision: 27.78%
+Recall: 27.78%
+F1-Score: 22.36%
+----------------------------------------
+Image: img3.jpg
+OCR Result: %2 83 623 { 2 2 2; 4
+Ground Truth: VW AG 038 907 281 D Made in Germany  WLO 51299023A 12V >PA66-GF30< 228-88
+Similarity: 16.67%
+Accuracy: 7.69%
+Precision: 51.25%
+Recall: 37.50%
+F1-Score: 2.08%
+----------------------------------------
+Image: img4.jpeg
+OCR Result:  1 FA6-GF46 < 31661797 & 5 0
+Ground Truth: >PA6-GF15< 316627975 Made in Germany
+Similarity: 52.83%
+Accuracy: 61.90%
+Precision: 69.91%
+Recall: 66.67%
+F1-Score: 47.72%
+----------------------------------------
+Image: img5.jpg
+OCR Result: 1 1 524 3 0 791 = 20 007 4RA
+Ground Truth: 3521 4RA 007 791 - 20 >PBT-GF20<
+Similarity: 44.44%
+Accuracy: 5.26%
+Precision: 30.00%
+Recall: 13.33%
+F1-Score: 4.44%
+----------------------------------------
+Image: img6.jpg
+OCR Result: IKO 007 665 B ESP _ DUCGENS R 798 $ ,g ?o: Nym ^
+Ground Truth: 1KO 907 655 B E8P - DUOSENSER
+Similarity: 51.72%
+Accuracy: 60.87%
+Precision: 68.18%
+Recall: 68.94%
+F1-Score: 48.33%
+----------------------------------------
+Image: img7.jpg
+OCR Result: MAG € Brown 1 1 Black 00O nzk 035
+Ground Truth: VW AG Brown+ 035 10/2014 Black- 5Q0.035.570 IHU Hungary
+Similarity: 50.00%
+Accuracy: 24.00%
+Precision: 40.15%
+Recall: 33.33%
+F1-Score: 17.42%
+----------------------------------------
+Image: img8.jpg
+OCR Result: 5m0.035.570.B Made inTunisia BBT 23/10/09
+Ground Truth: 5M0.035.570.B Made inTunisia BBT 23/10/09
+Similarity: 100.00%
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
+F1-Score: 100.00%
+----------------------------------------
+Image: img9.jpg
+OCR Result: 8EO 035 456 Q22D FKW le Ce 0681 024498 Yp 091 0411.2 Compenser@ MC 200Q4 ul-Inh  Eunkwerk Dabendort Gmbh Germany:
+Ground Truth: 8EO0 035 456 C FKW0681 021498 19/07 091 0411 2 Compenser MC 2000A  Funkwerk Dabendorf GmbH Germany
+Similarity: 79.31%
+Accuracy: 9.88%
+Precision: 12.71%
+Recall: 23.70%
+F1-Score: 4.25%
+----------------------------------------
+Overall Accuracy: 41.72%
+Overall Precision: 50.76%
+Overall Recall: 49.85%
+Overall F1-Score: 37.97%

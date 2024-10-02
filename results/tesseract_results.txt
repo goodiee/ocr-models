@@ -1,0 +1,139 @@
+Image: img1.jpeg
+OCR Result: 
+Ground Truth: Made in China 13502577 139BF7A4B 0451 AB
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img10.jpg
+OCR Result: BOSCH © Ass  @® 8RO 907 637 B 101 005 ESP-Sensor MM3.R8k ~@———._ 0 265 005 853 COOD “SFov 15-09-14 BPV 1283/31 7062614 Made in Hungary 4843 CRE  
+Ground Truth: BOSCH 8R0 907 637 B0101 005 ESP-Sensor MM3.R8k FOV 0 265 005 85315-09-14 7062614 BPV 1283/31 Made in Hungary 4843658
+Similarity: 77.36%
+Accuracy: 12.37%
+Precision: 20.47%
+Recall: 28.12%
+F1-Score: 9.60%
+----------------------------------------
+Image: img11.jpg
+OCR Result: ~ 2B Heektouchte hi  8E9 945 093 , 984.501 (401) 075 ULO 7499-9; 19:28 26.01.05 3  
+Ground Truth: ZB Heckleuchte Li 8E9 945 093484 501 (401) 07S ULO 7490-01 19:28 26.01.05
+Similarity: 80.95%
+Accuracy: 8.20%
+Precision: 10.50%
+Recall: 13.83%
+F1-Score: 3.72%
+----------------------------------------
+Image: img12.jpg
+OCR Result: 
+Ground Truth: MEGAVE R
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img13.png
+OCR Result: 
+Ground Truth: Mexico 1CO 805 594 C >PP-GF 40< PK3
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img14.jpg
+OCR Result: 
+Ground Truth: C3PIC L VR 4110A
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img15.jpeg
+OCR Result: ©: ' . i ll I tl Ul TT  ao  
+Ground Truth: BOSCH 0263004203 ASSEMBLED IN MEXICO110819 6002JC0860 0257 SW 1.45 HW 2.20 864 PSA  RB_AAS_G4_CEMO4 9663821780 23054H
+Similarity: 5.13%
+Accuracy: 0.00%
+Precision: 47.37%
+Recall: 42.11%
+F1-Score: 0.00%
+----------------------------------------
+Image: img2.jpeg
+OCR Result: 
+Ground Truth: 054.129.909 KYS GERMANY >PA6-GF30<
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img3.jpg
+OCR Result: 
+Ground Truth: VW AG 038 907 281 D Made in Germany  WLO 51299023A 12V >PA66-GF30< 228-88
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img4.jpeg
+OCR Result: 
+Ground Truth: >PA6-GF15< 316627975 Made in Germany
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img5.jpg
+OCR Result: 
+Ground Truth: 3521 4RA 007 791 - 20 >PBT-GF20<
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img6.jpg
+OCR Result: -4K0'007 6558 _ EP DUPENG  OO ue  
+Ground Truth: 1KO 907 655 B E8P - DUOSENSER
+Similarity: 54.17%
+Accuracy: 13.04%
+Precision: 34.09%
+Recall: 28.79%
+F1-Score: 10.91%
+----------------------------------------
+Image: img7.jpg
+OCR Result: 
+Ground Truth: VW AG Brown+ 035 10/2014 Black- 5Q0.035.570 IHU Hungary
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img8.jpg
+OCR Result: 5M0.035.570.B Made inTunisia  BBT 23/10/09  
+Ground Truth: 5M0.035.570.B Made inTunisia BBT 23/10/09
+Similarity: 100.00%
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
+F1-Score: 100.00%
+----------------------------------------
+Image: img9.jpg
+OCR Result: 
+Ground Truth: 8EO0 035 456 C FKW0681 021498 19/07 091 0411 2 Compenser MC 2000A  Funkwerk Dabendorf GmbH Germany
+Similarity: 0.00%
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1-Score: 0.00%
+----------------------------------------
+Overall Accuracy: 8.91%
+Overall Precision: 14.16%
+Overall Recall: 14.19%
+Overall F1-Score: 8.28%

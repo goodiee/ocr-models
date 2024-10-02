@@ -1,0 +1,139 @@
+Image: img1.jpeg
+OCR Result: odod d izobesans na macie oess csins ad e c
+Ground Truth: Made in China 13502577 139BF7A4B 0451 AB
+Similarity: 14.71%
+Accuracy: 0.00%
+Precision: 47.62%
+Recall: 14.29%
+F1-Score: 0.00%
+----------------------------------------
+Image: img10.jpg
+OCR Result: bosch 8ro 907 637 0101 b 005 espsensor mm3rek 265 005 o 853 fov 160 bpv 1283131 7a made in hungary 4843 re
+Ground Truth: BOSCH 8R0 907 637 B0101 005 ESP-Sensor MM3.R8k FOV 0 265 005 85315-09-14 7062614 BPV 1283/31 Made in Hungary 4843658
+Similarity: 78.45%
+Accuracy: 25.00%
+Precision: 31.43%
+Recall: 30.33%
+F1-Score: 21.02%
+----------------------------------------
+Image: img11.jpg
+OCR Result: zb heckeuchte li cuid beg 945 093 c 84 501 aofbi o7s ulo 749001 1928 260105
+Ground Truth: ZB Heckleuchte Li 8E9 945 093484 501 (401) 07S ULO 7490-01 19:28 26.01.05
+Similarity: 77.69%
+Accuracy: 13.33%
+Precision: 28.23%
+Recall: 27.66%
+F1-Score: 12.74%
+----------------------------------------
+Image: img12.jpg
+OCR Result: dc egane
+Ground Truth: MEGAVE R
+Similarity: 57.14%
+Accuracy: 0.00%
+Precision: 33.33%
+Recall: 33.33%
+F1-Score: 0.00%
+----------------------------------------
+Image: img13.png
+OCR Result: mexico 806 1co sa sppags hass ps
+Ground Truth: Mexico 1CO 805 594 C >PP-GF 40< PK3
+Similarity: 48.15%
+Accuracy: 23.08%
+Precision: 54.55%
+Recall: 40.15%
+F1-Score: 22.27%
+----------------------------------------
+Image: img14.jpg
+OCR Result: l pls l3 wr yaoa
+Ground Truth: C3PIC L VR 4110A
+Similarity: 24.00%
+Accuracy: 8.33%
+Precision: 46.67%
+Recall: 40.00%
+F1-Score: 6.67%
+----------------------------------------
+Image: img15.jpeg
+OCR Result: bosch assembled in mexico 110819 goozjcos60 0263004203 on 0257 sw 145 hw 2z0 rb aas ga cemoa psa 9663821780 23054h
+Ground Truth: BOSCH 0263004203 ASSEMBLED IN MEXICO110819 6002JC0860 0257 SW 1.45 HW 2.20 864 PSA  RB_AAS_G4_CEMO4 9663821780 23054H
+Similarity: 74.49%
+Accuracy: 7.37%
+Precision: 11.11%
+Recall: 9.14%
+F1-Score: 5.10%
+----------------------------------------
+Image: img2.jpeg
+OCR Result: usk 129 kys 008 germany spabegfo r
+Ground Truth: 054.129.909 KYS GERMANY >PA6-GF30<
+Similarity: 57.63%
+Accuracy: 3.57%
+Precision: 26.00%
+Recall: 18.00%
+F1-Score: 2.00%
+----------------------------------------
+Image: img3.jpg
+OCR Result:  0   e s s s e s
+Ground Truth: VW AG 038 907 281 D Made in Germany  WLO 51299023A 12V >PA66-GF30< 228-88
+Similarity: 9.09%
+Accuracy: 0.00%
+Precision: 66.67%
+Recall: 22.22%
+F1-Score: 0.00%
+----------------------------------------
+Image: img4.jpeg
+OCR Result: babteit k xb617115
+Ground Truth: >PA6-GF15< 316627975 Made in Germany
+Similarity: 12.50%
+Accuracy: 6.25%
+Precision: 43.86%
+Recall: 34.21%
+F1-Score: 2.11%
+----------------------------------------
+Image: img5.jpg
+OCR Result: uloelaks elid d l oeo tsezo e oo7 ara
+Ground Truth: 3521 4RA 007 791 - 20 >PBT-GF20<
+Similarity: 7.27%
+Accuracy: 0.00%
+Precision: 55.56%
+Recall: 33.33%
+F1-Score: 0.00%
+----------------------------------------
+Image: img6.jpg
+OCR Result: 1k0 907 666b esp dunsenser aoo 8 20 c e
+Ground Truth: 1KO 907 655 B E8P - DUOSENSER
+Similarity: 64.15%
+Accuracy: 39.13%
+Precision: 58.77%
+Recall: 49.12%
+F1-Score: 39.47%
+----------------------------------------
+Image: img7.jpg
+OCR Result: ag brown vw g e e s black iozoia ojs
+Ground Truth: VW AG Brown+ 035 10/2014 Black- 5Q0.035.570 IHU Hungary
+Similarity: 37.84%
+Accuracy: 0.00%
+Precision: 36.00%
+Recall: 20.00%
+F1-Score: 0.00%
+----------------------------------------
+Image: img8.jpg
+OCR Result: smoobsstob intunisia made 23f10fo9 bbt
+Ground Truth: 5M0.035.570.B Made inTunisia BBT 23/10/09
+Similarity: 39.44%
+Accuracy: 5.88%
+Precision: 23.02%
+Recall: 18.25%
+F1-Score: 3.97%
+----------------------------------------
+Image: img9.jpg
+OCR Result: cs e osee seo ekvn goaoaoe doot ca ao spe e aosa me 0azez ompenses ogi yp germay babedons smon funkwerk jnn u
+Ground Truth: 8EO0 035 456 C FKW0681 021498 19/07 091 0411 2 Compenser MC 2000A  Funkwerk Dabendorf GmbH Germany
+Similarity: 28.57%
+Accuracy: 3.70%
+Precision: 38.08%
+Recall: 14.90%
+F1-Score: 3.02%
+----------------------------------------
+Overall Accuracy: 9.04%
+Overall Precision: 40.06%
+Overall Recall: 27.00%
+Overall F1-Score: 7.89%
