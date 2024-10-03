@@ -48,11 +48,11 @@ Processed images are saved in the *processed_images/* folder, and the appropriat
 
 After preprocessing, the OCR tools are applied:
 
-- EasyOCR `easy-ocr.py`: Requires additional files (already included in the project) for setup. GPU is recommended for faster processing.
+- EasyOCR `easy-ocr.py`:  GPU is recommended for faster processing.
 
 - Keras-OCR `keras-ocr.py`: Also works better with GPU acceleration.
 
-- Tesseract-OCR `tesseract-ocr.py`: No extra installation is required beyond the basic setup.
+- Tesseract-OCR `tesseract-ocr.py`: Requires additional files (already included in the project) for setup.
 
 The results from each OCR tool are stored in their respective text files within the *results/* folder. These text files contain metrics such as similarity, accuracy, precision, recall, and F1-score for each image, along with the overall results at the end.
 
